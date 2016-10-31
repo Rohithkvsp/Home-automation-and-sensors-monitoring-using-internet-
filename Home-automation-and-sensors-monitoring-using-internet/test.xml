@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+ <device name="1">
+ <state>OFF</state>
+ </device>
+ <device name="2">
+ <state>ON</state>
+ </device>
+ <device name="3">
+ <state>ON</state>
+ </device>
+ <device name="4">
+ <state>ON</state>
+ </device>
+ <device name="5">
+ <state>OFF</state>
+ </device>
+ <device name="6">
+ <state>OFF</state>
+ </device>
+ <device name="7">
+ <state>ON</state>
+ </device>
+ <device name="8">
+ <state>ON</state>
+ </device>
+ <device name="9">
+ <state>OFF</state>
+ </device>
+ <device name="10">
+ <state>OFF</state>
+ </device>
+</devices>
